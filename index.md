@@ -9,10 +9,10 @@ I am a Research Associate in the Health and Demography unit at the School of Pub
 
 My research focuses on the work-family interface and everyday family life, with a particular interest in gendered patterns and implications for well-being and mental health.
 
-## News
+## Conference Presentations
 
-- **[June. 2026]** Presented at the European Population Conference (EPC), Bologna, Italy.
-- **[Feb. 2026]** Presented at the Conference of Young Demographers, Prague, Czech Republic.
+- **[June. 2026]** Hirch, S., Prickett, K. C., Harnisch, P. & Oksuzyan, A. (2026). Commuting Time, Gender, and Parenting Time: Evidence from the American Time Use Survey [Poster]. European Population Conference, Bologna, Italy.
+- **[Feb. 2026]** The Accumulation of Adverse Life Events across the Life Course and Their Association with Mental Health and Well-Being: Exploring Gender Heterogeneity [Poster]. Conference of Young Demographers, Prague, Czech Republic.
 
 # {% include_relative _includes/publications.md %}
 
