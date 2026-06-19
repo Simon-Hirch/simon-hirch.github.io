@@ -3,21 +3,17 @@ layout: homepage
 ---
 
 ## About Me
-
-I love my potatosaur!...
+I am a Research Associate in the Health and Demography unit at the School of Public Health, Bielefeld University, with a background in Sociology and Public Health. My PhD research lies at the intersection of family demography, family sociology, and public health. I am very interested in how people experience and manage the demands of everyday family life, and what this means for their well-being and mental health.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research focuses on the work-family interface and everyday family life, with a particular interest in gendered patterns and implications for well-being and mental health.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June. 2026]** Presented at the European Population Conference (EPC), Bologna, Italy.
+- **[Feb. 2026]** Presented at the Conference of Young Demographers, Prague, Czech Republic.
 
-{% include_relative _includes/publications.md %}
+# {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+# {% include_relative _includes/services.md %}
