@@ -11,6 +11,7 @@ I am very interested in how people experience and manage the demands of everyday
 
 ## Conference Presentations
 **2026**
+- **Hirch, S.**, Prickett, K. C. & Oksuzyan, A. How Commuting Time Shapes Parenting Time: Evidence Across Parenting Activities, Child Age, and Gender [oral presentation]. British Society for Population Studies Annual Conference, Canterbury, Kent, UK.
 -  **Hirch, S.**, Prickett, K. C., Harnisch, P. & Oksuzyan, A. Commuting Time, Gender, and Parenting Time: Evidence from the American Time Use Survey [Poster]. European Population Conference, Bologna, Italy.
 -  **Hirch, S.** The Accumulation of Adverse Life Events across the Life Course and Their Association with Mental Health and Well-Being: Exploring Gender Heterogeneity [Poster]. Conference of Young Demographers, Prague, Czech Republic.
 
