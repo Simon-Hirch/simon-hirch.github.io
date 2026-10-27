@@ -15,6 +15,6 @@ I am very interested in how people experience and manage the demands of everyday
 -  **Hirch, S.**, Prickett, K. C., Harnisch, P. & Oksuzyan, A. Commuting Time, Gender, and Parenting Time: Evidence from the American Time Use Survey [Poster]. European Population Conference, Bologna, Italy.
 -  **Hirch, S.** The Accumulation of Adverse Life Events across the Life Course and Their Association with Mental Health and Well-Being: Exploring Gender Heterogeneity [Poster]. Conference of Young Demographers, Prague, Czech Republic.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
