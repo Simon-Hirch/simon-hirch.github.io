@@ -23,8 +23,8 @@ main:
 
 
   - title: "The accumulation of adverse life events over the life course and their association with mental health and well-being: exploring gender heterogeneity"
-     authors: <strong>Simon Hirch</strong>
-     #conference_short: IJPDS
-     conference: BMC Public Health, , 26, 3054, 2026.
-     pdf: https://doi.org/10.1186/s12889-026-30076-7
-     image: ./assets/img/teaser_example.png
+    authors: '<strong>Simon Hirch</strong>'
+    # conference_short: IJPDS
+    conference: "BMC Public Health, 26, 3054, 2026."
+    pdf: "https://doi.org/10.1186/s12889-026-30076-7"
+    image: "./assets/img/teaser_example.png"
