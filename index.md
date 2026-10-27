@@ -17,4 +17,4 @@ I am very interested in how people experience and manage the demands of everyday
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
